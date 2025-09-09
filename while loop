@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Using do while loop: " << endl;
+    
+    int h = 1;
+    do {
+        cout << h << "\n";
+        h++;
+    }
+    
+    while (h <= 4);
+    cout<< endl;
+    
+    return 0;
+}
