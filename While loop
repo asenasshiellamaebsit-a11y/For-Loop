@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+ 
+    cout << "Using while loop: " << endl;
+    
+    int s = 1;
+    while (s <= 9) {
+        cout << s << "\n";
+        s++;
+    }
+    cout << endl;
+
+    return 0;
+}
