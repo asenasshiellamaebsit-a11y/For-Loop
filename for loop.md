@@ -1,5 +1,4 @@
 # For-Loop
-Write a program using for loop
 
 #include <iostream>
 using namespace std;
